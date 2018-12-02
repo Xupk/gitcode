@@ -1,6 +1,7 @@
 package com.glut.xupk.basis;
 
 /***
+ *@author xupk
  *
  */
 public class Break {
